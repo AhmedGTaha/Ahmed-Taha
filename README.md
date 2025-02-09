@@ -1,5 +1,5 @@
 # Hello World!, I'm Ahmed, a Tunisian Developer 👋🏼:
-👨🏼‍🎓 I'm currently studying Software Engineering
+👨🏼‍🎓 I'm currently studying Software Engineering at University of Bahrain
 
 
 ## 🌐 You Can Find Me On:
